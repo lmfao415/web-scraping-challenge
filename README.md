@@ -1,6 +1,6 @@
 # web-scraping-dashboard
 
-This project uses web scraping and a flask app to present a dashboard of Mars news with recent photos. To view the dashboard, run the [flask app](https://github.com/lmfao415/web-scraping-challenge/blob/main/Missions_to_Mars/app.py).
+This project uses web scraping and a flask app to present a dashboard of Mars information with recent photos. To view the dashboard, run the [flask app](https://github.com/lmfao415/web-scraping-challenge/blob/main/Missions_to_Mars/app.py).
 
 The [scraper file](https://github.com/lmfao415/web-scraping-challenge/blob/main/Missions_to_Mars/scrape_mars.py) gathers all the information and images from different sites.
 
