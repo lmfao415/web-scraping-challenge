@@ -1,7 +1,6 @@
-# web-scraping-challenge
+# web-scraping-dashboard
 
-This project combines different scraped information about Mars along with images into one page using flask.
-
+This project uses web scraping and a flask app to present a dashboard of Mars news with recent photos.
 The [scraper file](https://github.com/lmfao415/web-scraping-challenge/blob/main/Missions_to_Mars/scrape_mars.py) gathers all the information and images from different sites.
 
 The code used to scrape the information is also provided in a [Jupyter Notebook](https://github.com/lmfao415/web-scraping-challenge/blob/main/Missions_to_Mars/mission_to_mars.ipynb).
